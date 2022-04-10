@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marcus Loren Lopes ",
+      "empresa": "MAllt",
+      "email": "hola@hola.com",
+      "telefono": "21989710023",
+      "notas": "testando, testando",
+      "id": 2
+    },
+    {
+      "nombre": "Mario Mafra",
+      "empresa": "MAFRA ESTOFADOS",
+      "email": "contato@mafraestofados.com",
+      "telefono": "21989710023",
+      "notas": "clietne quer cotar estofados",
+      "id": 3
+    }
+  ]
+}
